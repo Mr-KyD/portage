@@ -1,0 +1,9 @@
+sys-kernel/gentoo-sources symlink
+sys-libs/zlib static-libs
+sys-fs/udev keymap
+sys-lib/ncurses unicode
+sys-auth/consolekit policykit
+sys-apps/dbus X
+sys-libs/ncurses unicode
+sys-libs/zlib minizipd
+>=sys-libs/libosinfo-0.2.10 introspection

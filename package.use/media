@@ -1,0 +1,20 @@
+media-libs/libcanberra alsa
+media-libs/libpng apng
+media-libs/libjpeg-turbo static-libs
+virtual/jpeg static-libs
+media-libs/libpng static-libs
+media-libs/lcms static-libs
+media-libs/libmng static-libs
+media-libs/freetype static-libs
+media-gfx/splashutils fbcondecor
+media-libs/freetype X bzip2 png
+media-libs/mesa -nptl
+media-gfx/imagemagick X tiff
+media-libs/imlib2 X
+media-video/mplayer mp3 opengl x264
+media-libs/harfbuzz icu
+media-libs/libsdl X
+media-sound/moc aac alsa ffmpeg mad vorbis
+media-video/ffmpeg mp3 aac fontconfig libass theora truetype
+media-video/vlc alsa libass libnotify live matroska mp3 ncurses ogg opengl rstp theora truetype v4l vlm x264
+>=media-plugins/alsa-plugins-1.0.28 pulseaudio

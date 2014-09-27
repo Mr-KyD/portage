@@ -1,0 +1,10 @@
+dev-libs/keybinder python
+dev-libs/efl X
+dev-libs/efl audio opengl
+dev-libs/redland ssl
+dev-java/oracle-jre-bin alsa fontconfig nsplugin
+dev-libs/libxml2 python
+sys-libs/ncurses unicode
+=dev-libs/atk-2.10.0 introspection
+dev-libs/elfutils static-libs
+dev-lang/python xml

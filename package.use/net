@@ -1,0 +1,17 @@
+net-misc/wicd libnotify -gtk ncurses nls
+net-im/pidgin gnutls -gstreamer nls ncurses python
+net-fs/samba -server syslog
+net-irc/weechat -spell -relay
+net-misc/curl ssl
+net-print/cups gnutls usb dbus
+net-print/gutenprint cups ppds foomaticdb
+net-irc/irssi ssl
+net-analyzer/vnstat gd
+net-analyzer/nmap ssl nping ndiff
+dev-python/pycurl ssl
+net-libs/loudmouth ssl debug
+net-libs/gtk-vnc python
+net-misc/spice-gtk python gtk3
+>=net-misc/spice-gtk-0.21 introspection
+>=net-libs/gtk-vnc-0.5.3 introspection
+net-misc/openvpn iproute2

@@ -1,0 +1,18 @@
+app-editors/vim -acl
+app-arch/bzip2 static-libs
+app-crypt/pinentry ncurses
+app-emulation/virtualbox alsa vnc
+app-office/libreoffice -cups -vba -webdav
+app-text/acroread nsplugin
+app-text/ghostcript-gpl cups
+app-text/ghostscript-gpl cups
+app-text/poppler cairo
+app-emulation/libvirt-glib python
+app-emulation/libvirt virt-network
+app-emulation/virt-manager gtk
+app-emulation/qemu alsa ncurses opengl spice
+>=app-emulation/libvirt-glib-0.1.8 introspection
+app-emulation/wine X
+app-emulation/emul-linux-x86-soundlibs alsa
+app-mobilephone/gammu bash-completion curl -python 
+app-shells/zsh unicode pcre maildir
