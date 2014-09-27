@@ -1,0 +1,17 @@
+app-admin/ccze
+app-admin/syslog-ng
+app-arch/rar
+app-cdr/cdw
+app-editors/vim
+app-misc/ranger
+app-misc/task
+app-misc/tmux
+app-portage/eix
+app-portage/genlop
+app-portage/gentoolkit
+app-portage/layman
+app-text/acroread
+app-text/wgetpaste
+app-text/zathura
+app-text/zathura-pdf-poppler
+lxde-base/lxappearance

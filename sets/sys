@@ -1,0 +1,16 @@
+sys-apps/dbus
+sys-apps/gptfdisk
+sys-apps/lshw
+sys-apps/mlocate
+sys-apps/pciutils
+sys-apps/udevil
+sys-boot/grub-legacy-static
+sys-devel/bc
+sys-devel/llvm
+sys-fs/xfsprogs
+sys-kernel/genkernel
+sys-kernel/linux-firmware
+sys-power/cpufrequtils
+sys-process/htop
+sys-process/lsof
+sys-process/vixie-cron
